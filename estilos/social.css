@@ -1,4 +1,4 @@
-@charsey "UTF-8";
+@charset "UTF-8";
 
 * {
     margin: 0px;
@@ -19,7 +19,8 @@ a {
     display: block;
     background-color: darkred;
     color: white;
-    padding: 20%;
+    padding: 10%;
+    margin-top: -5px;
     text-align: center;
     font-weight: bolder;
     text-decoration: none;
